@@ -49,7 +49,7 @@ A color picker application that allows users to select RGB values using sliders.
 3. Compile and run the Java file.
 
 ## Purpose
-These applications are meant to provide a foundation for learning Java Swing and building GUI-based applications. Each assignment is crafted to be beginner-friendly, focusing on core Java concepts such as event handling, component layout, and user interaction.
+These applications are part of my academic lab assignments to provide a foundation for learning Java Swing and building GUI-based applications. Each assignment is beginner-friendly, focusing on core Java concepts such as event handling, component layout, and user interaction.
 
 ## Contributing
 Feel free to fork this repository and contribute by adding more features or improving existing applications. Pull requests are welcome.
